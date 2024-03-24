@@ -15,6 +15,7 @@
 @_exported import HashTreeCollections
 @_exported import HeapModule
 @_exported import OrderedCollections
+@_exported import SortedCollections
 // Note: _RopeModule is very intentionally not reexported, as its contents
 // aren't part of this package's stable API surface (yet).
 #endif
